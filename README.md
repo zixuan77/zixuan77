@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-## 🌱 I’m currently an undergraduate in University of California, Santa Barbara
+# 🌱 I’m currently an undergraduate in University of California, Santa Barbara
 
-## ⚡ An international student from China
+# ⚡ An international student from China
 
-## 🔭 My major is Statistics and Data Science
+# 🔭 My major is Statistics and Data Science
 
-## 😄 Programming languages: R, Python, SQL, C++, SAS; Research interests: Biostatistcs, Machine learning in health data...
+# 😄 Programming languages: R, Python, SQL, C++, SAS; Research interests: Biostatistcs, Machine learning in health data...
 
-## 📫 How to reach me: zixuan77@ucsb.edu( I'm seeking internships. Please feel free to contact me)
+# 📫 How to reach me: zixuan77@ucsb.edu( I'm seeking internships. Please feel free to contact me)
 
 <!--
 **zixuan77/zixuan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
