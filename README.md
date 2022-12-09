@@ -10,6 +10,7 @@
 
 📫 How to reach me: zixuan77@ucsb.edu( I'm seeking for internships. Please feel free to contact me)
 
+💬 Hope to share my experience and thoughts here and learn from all the others!
 <!--
 **zixuan77/zixuan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
