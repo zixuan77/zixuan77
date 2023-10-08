@@ -8,7 +8,7 @@
 
 😄 Programming languages: R, Python, SQL, C++, SAS; Research interests: Biostatistcs, Machine learning in health data...
 
-📫 How to reach me: zixuan77@ucsb.edu( I'm seeking for internships. Please feel free to contact me)
+📫 How to reach me: zixuan77dong at gmail dot com( I'm seeking for 8-month internship from May. Please feel free to contact me)
 
 💬 Hope to share my experience and thoughts here and learn from all the others!
 <!--
